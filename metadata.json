@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Recommender",
+  "description": "Answer a few questions and let AI find your perfect travel destination in Japan. This simple quiz helps you discover new places tailored to your budget, company, and mood.",
+  "requestFramePermissions": []
+}
